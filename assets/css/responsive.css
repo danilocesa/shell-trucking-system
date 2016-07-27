@@ -1,0 +1,23 @@
+@media (max-width: 992px) { 
+
+.login_logo img{
+	width:200px;
+	height:200px;
+}
+.delete-list{
+	z-index: 1;
+}
+
+}
+
+
+
+@media (max-width: 768px) { 
+
+.login_logo img{
+	width:200px;
+	height:200px;
+}
+
+
+}
